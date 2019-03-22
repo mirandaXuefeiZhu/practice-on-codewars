@@ -1,0 +1,3 @@
+def remove_exclamation_mark(s)
+    print(s.strip("!"))
+return
